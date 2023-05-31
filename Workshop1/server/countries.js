@@ -19,24 +19,12 @@ app.get('/countries', function (req, res){
                 },
                 {
                     "id": 2,
-                    "name": "Guatemala",
-                },
-                {
-                    "id": 3,
-                    "name": "El Salvador",
-                },
-                {
-                    "id": 4,
                     "name": "Colombia",
                 },
                 {
-                    "id": 5,
+                    "id": 3,
                     "name": "Argentina",
                 },
-                {
-                    "id": 6,
-                    "name": "Panama", 
-                }
         ]);
 });
 
